@@ -1,0 +1,14 @@
+# Example Parameters
+
+1. Simple Harmonic Motion
+spring_model(AC=8, T_A=8, NL_A=2, T_C=3, NL_C=3, m=0.5, k=0, offset=0.6, animate=True, energy=True)
+
+2. Damped Oscillation
+spring_model(AC=8, T_A=8, NL_A=2, T_C=3, NL_C=3, m=0.5, k=0.2, offset=0.6, animate=True, energy=True)
+
+3. Resonance
+spring_model(AC=8, T_A=8, NL_A=2, T_C=3, NL_C=3, m=0.5, k=0.2, offset=0,A=5,omega=4.7, animate=True, energy=True)
+
+4. Overdamped Motion
+spring_model(AC=8, T_A=8, NL_A=2, T_C=3, NL_C=3, m=0.5, k=5, offset=0.6, animate=True, energy=True)
+
