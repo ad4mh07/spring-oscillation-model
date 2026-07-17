@@ -5,7 +5,7 @@ A Python-based  simulation of a spring–mass oscillation system, developed to i
 ## Overview
 
 This project models the motion of a mass attached to a spring system using numerical methods. 
-The scenario was inspired by questiom 18 of the 2024 Paper 1 AQA A-Level Further Maths paper.
+The scenario was inspired by questiom 18 of the 2024 AQA A-Level Further Maths Paper 1.
 The model solves the governing differential equations of motion and visualises how system parameters affect the resulting oscillations.
 
 The simulation includes:
