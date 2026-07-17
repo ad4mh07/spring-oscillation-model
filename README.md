@@ -21,9 +21,9 @@ The model was developed to explore concepts relevant to mechanical vibration ana
 
 The system is represented by a second-order ordinary differential equation:
 
-\[
+$$
 m\ddot{x} + c\dot{x} + kx = F(t)
-\]
+$$
 
 where:
 
